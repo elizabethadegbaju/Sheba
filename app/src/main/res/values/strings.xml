@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sheba</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="name">Elizabeth Adegbaju</string>
+    <string name="android_native_developer_nlagos_nigeria">android native developer \nlagos, nigeria</string>
+    <string name="email_address">Email Address</string>
+    <string name="adeotunadegbaju_gmail_com">adeotunadegbaju@gmail.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="number">+234 805 043 4674</string>
+    <string name="twitter">Twitter</string>
+    <string name="username_twitter">\@Leez_2904</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebook_com_elizabethadegbaju">facebook.com/elizabethadegbaju</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="_413k">413K</string>
+    <string name="_873">873</string>
+    <string name="my_picture">My Picture</string>
+</resources>
